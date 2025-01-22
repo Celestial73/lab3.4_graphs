@@ -1,0 +1,3 @@
+C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/CMakeFiles/lab4_graphs.dir
+C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

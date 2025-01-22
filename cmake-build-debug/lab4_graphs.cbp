@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab4_graphs"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab4_graphs">
+				<Option output="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/lab4_graphs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4_graphs"/>
+					<CompileFile command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab4_graphs/fast">
+				<Option output="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/lab4_graphs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4_graphs/fast"/>
+					<CompileFile command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/Structures/Digraph.h">
+			<Option target="lab4_graphs"/>
+		</Unit>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/Structures/Graph.h">
+			<Option target="lab4_graphs"/>
+		</Unit>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/Structures/NonDigraph.h">
+			<Option target="lab4_graphs"/>
+		</Unit>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/Tests/TestDiGraph.h">
+			<Option target="lab4_graphs"/>
+		</Unit>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/Tests/TestNonDiGraph.h">
+			<Option target="lab4_graphs"/>
+		</Unit>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/Tests/Tests.h">
+			<Option target="lab4_graphs"/>
+		</Unit>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/UI/Menu.h">
+			<Option target="lab4_graphs"/>
+		</Unit>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/UI/Preset.h">
+			<Option target="lab4_graphs"/>
+		</Unit>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/Utility/Actions.h">
+			<Option target="lab4_graphs"/>
+		</Unit>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/Utility/Handlers.h">
+			<Option target="lab4_graphs"/>
+		</Unit>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/main.cpp">
+			<Option target="lab4_graphs"/>
+		</Unit>
+		<Unit filename="C:/Users/Michael/ROOT/MEPHI/sem3/labs/lab4sem3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
